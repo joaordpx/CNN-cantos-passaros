@@ -1,0 +1,61 @@
+{
+  "modo": "trecho",
+  "sementes": [
+    42,
+    43,
+    44
+  ],
+  "media": {
+    "acuracia_trecho": 0.9226,
+    "f1_macro_trecho": 0.9228,
+    "acuracia_gravacao": 0.94,
+    "f1_macro_gravacao": 0.9396
+  },
+  "desvio_padrao": {
+    "acuracia_trecho": 0.0026,
+    "f1_macro_trecho": 0.0024,
+    "acuracia_gravacao": 0.0025,
+    "f1_macro_gravacao": 0.0037
+  },
+  "por_semente": [
+    {
+      "modo": "trecho",
+      "semente": 42,
+      "epocas_treinadas": 22,
+      "melhor_epoca": 16,
+      "trechos_teste": 366,
+      "gravacoes_teste": 207,
+      "gravacoes_teste_tambem_no_treino": 192,
+      "acuracia_trecho": 0.9207650273224044,
+      "f1_macro_trecho": 0.9202290312502621,
+      "acuracia_gravacao": 0.9371980676328503,
+      "f1_macro_gravacao": 0.9344381313131314
+    },
+    {
+      "modo": "trecho",
+      "semente": 43,
+      "epocas_treinadas": 18,
+      "melhor_epoca": 12,
+      "trechos_teste": 366,
+      "gravacoes_teste": 198,
+      "gravacoes_teste_tambem_no_treino": 188,
+      "acuracia_trecho": 0.9207650273224044,
+      "f1_macro_trecho": 0.9221648778004358,
+      "acuracia_gravacao": 0.9393939393939394,
+      "f1_macro_gravacao": 0.9409086886234886
+    },
+    {
+      "modo": "trecho",
+      "semente": 44,
+      "epocas_treinadas": 24,
+      "melhor_epoca": 18,
+      "trechos_teste": 366,
+      "gravacoes_teste": 194,
+      "gravacoes_teste_tambem_no_treino": 186,
+      "acuracia_trecho": 0.9262295081967213,
+      "f1_macro_trecho": 0.9260418887941145,
+      "acuracia_gravacao": 0.9432989690721649,
+      "f1_macro_gravacao": 0.943304244774833
+    }
+  ]
+}

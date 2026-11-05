@@ -1,0 +1,10 @@
+                  precision    recall  f1-score   support
+
+       bem-te-vi      1.000     0.882     0.938        51
+canario-da-horta      0.915     1.000     0.956        43
+  sabia-do-campo      0.894     0.857     0.875        49
+    trinca-ferro      0.941     1.000     0.970        64
+
+        accuracy                          0.937       207
+       macro avg      0.937     0.935     0.934       207
+    weighted avg      0.939     0.937     0.936       207

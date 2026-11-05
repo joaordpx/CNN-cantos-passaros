@@ -1,0 +1,21 @@
+# ambiente
+.venv/
+__pycache__/
+*.pyc
+
+# dados: as gravações são do xeno-canto, cada uma com a sua licença, e não são
+# redistribuídas aqui. Rode src/baixar_audios.py e src/gerar_espectrogramas.py.
+dados/
+
+# modelos treinados (gerados por src/treinar.py)
+modelos/
+*.h5
+*.keras
+
+# divisões por semente (dá para recriar com a mesma semente)
+resultados/**/divisao.csv
+
+.env
+
+# logs de treino
+*.log

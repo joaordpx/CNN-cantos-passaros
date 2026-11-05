@@ -1,0 +1,13 @@
+{
+  "modo": "gravacao",
+  "semente": 44,
+  "epocas_treinadas": 13,
+  "melhor_epoca": 7,
+  "trechos_teste": 329,
+  "gravacoes_teste": 55,
+  "gravacoes_teste_tambem_no_treino": 0,
+  "acuracia_trecho": 0.8419452887537994,
+  "f1_macro_trecho": 0.8450174438507161,
+  "acuracia_gravacao": 0.9454545454545454,
+  "f1_macro_gravacao": 0.944712643678161
+}
