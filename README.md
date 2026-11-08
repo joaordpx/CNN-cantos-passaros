@@ -3,6 +3,8 @@
 Rede neural convolucional que identifica qual de quatro espécies brasileiras está cantando
 numa gravação, a partir do espectrograma do áudio.
 
+Feito com Python 3.12, TensorFlow 2.19 (Keras 3), librosa e scikit-learn.
+
 | Espécie | Nome científico | No código |
 |---|---|---|
 | Bem-te-vi | *Pitangus sulphuratus* | `bem-te-vi` |
